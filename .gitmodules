@@ -1,0 +1,21 @@
+[submodule ".vim/bundle/Vundle.vim"]
+	path = .vim/bundle/Vundle.vim
+	url = https://github.com/VundleVim/Vundle.vim
+[submodule ".vim/bundle/command-t"]
+	path = .vim/bundle/command-t
+	url = https://github.com/wincent/command-t
+[submodule ".vim/bundle/sparkup"]
+	path = .vim/bundle/sparkup
+	url = https://github.com/rstacruz/sparkup
+[submodule ".vim/bundle/vim-codefmt"]
+	path = .vim/bundle/vim-codefmt
+	url = https://github.com/google/vim-codefmt
+[submodule ".vim/bundle/vim-fugitive"]
+	path = .vim/bundle/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule ".vim/bundle/vim-glaive"]
+	path = .vim/bundle/vim-glaive
+	url = https://github.com/google/vim-glaive.git
+[submodule ".vim/bundle/vim-maktaba"]
+	path = .vim/bundle/vim-maktaba
+	url = https://github.com/google/vim-maktaba.git

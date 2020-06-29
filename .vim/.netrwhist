@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/cdmedrano/builds/google-step2020/portfolio/src/main/webapp/WEB-INF/jsp/include'
+let g:netrw_dirhist_2='/home/cdmedrano/builds/google-step2020/walkthroughs/week-4-libraries/authentication/examples/user-nicknames'
+let g:netrw_dirhist_3='/home/cdmedrano/builds/google-step2020/portfolio/src/main/java/com/google/sps/servlets'
